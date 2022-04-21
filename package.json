@@ -1,0 +1,23 @@
+{
+  "name": "dailytestchallenge",
+  "version": "1.0.0",
+  "description": "A personal challenge about adding a test to each challenge resolved",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jito-jito/DailyTestChallenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jito-jito/DailyTestChallenge/issues"
+  },
+  "homepage": "https://github.com/jito-jito/DailyTestChallenge#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
